@@ -481,7 +481,7 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-h
-    title: Contact us
+    title: Contact
     text: We look forward to hearing from you.
     form:
       type: FormBlock

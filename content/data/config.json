@@ -96,5 +96,57 @@
                 ]
             }
         }
+    },
+    "header": {
+        "headerVariant": "variant-c",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "title": "Your Brand",
+        "isTitleVisible": true,
+        "logo": {
+            "type": "ImageBlock",
+            "url": "",
+            "altText": "",
+            "caption": ""
+        },
+        "primaryLinks": [
+            {
+                "type": "link",
+                "url": "/",
+                "name": "Home",
+                "label": "Home",
+                "altText": "Home",
+                "style": "link"
+            },
+            {
+                "type": "link",
+                "url": "/",
+                "name": "Blog",
+                "label": "Blog",
+                "altText": "Blog",
+                "style": "link"
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "url": "/",
+                "name": "Sign up",
+                "label": "Sign up",
+                "altText": "Sign up",
+                "style": "primary"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
     }
 }

@@ -1,5 +1,5 @@
 ---
-title: Virtual benefitsss
+title: Virtual benefit
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json

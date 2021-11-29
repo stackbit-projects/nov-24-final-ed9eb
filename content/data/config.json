@@ -102,15 +102,6 @@
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
-            },
-            {
-                "type": "twitter",
-                "icon": "twitter",
-                "label": "",
-                "altText": "twitter",
-                "url": "/",
-                "elementId": false,
-                "showIcon": true
             }
         ],
         "legalLinks": [

@@ -95,6 +95,15 @@
                 "showIcon": true
             },
             {
+                "label": "",
+                "altText": "Facebook",
+                "url": "/",
+                "showIcon": true,
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
                 "type": "twitter",
                 "icon": "twitter",
                 "label": "",

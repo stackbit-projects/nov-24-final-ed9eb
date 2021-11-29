@@ -169,8 +169,7 @@ sections:
         url: /images/skype.svg
         altText: Skype
         caption: Skype
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/apple.svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

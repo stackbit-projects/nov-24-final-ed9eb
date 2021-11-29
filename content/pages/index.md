@@ -127,6 +127,7 @@ sections:
       type: ImageBlock
       altText: Image alt text
       caption: Image caption
+      url: /images/9.jpeg
     styles:
       self:
         height: auto
